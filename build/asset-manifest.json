@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/YNN-webinar-deadlines/static/css/main.427f82d0.css",
+    "main.js": "/YNN-webinar-deadlines/static/js/main.28b45310.js",
+    "index.html": "/YNN-webinar-deadlines/index.html",
+    "main.427f82d0.css.map": "/YNN-webinar-deadlines/static/css/main.427f82d0.css.map",
+    "main.28b45310.js.map": "/YNN-webinar-deadlines/static/js/main.28b45310.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.427f82d0.css",
+    "static/js/main.28b45310.js"
+  ]
+}
